@@ -30,7 +30,7 @@ defmodule FeatureToggler.Mixfile do
 			files: ["lib", "config", "mix.exs", "README*", "LICENSE*"],
 			maintainers: ["Aravind Gopalakrishnan"],
 			licenses: ["MIT License"],
-			links: %{"GitHub" => "https://github.com/aravindgd/feature_toggler"}]
+			links: %{"GitHub" => "https://github.com/aravindgd/feature_toggler", "docs" => 'http://hexdocs.pm/feature_toggler/0.0.1/'}]
 	end
 
 	# Dependencies can be Hex packages:
