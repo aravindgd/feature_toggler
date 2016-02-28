@@ -27,7 +27,7 @@ defmodule FeatureToggler.Mixfile do
 
 	defp package do
 		[# These are the default files included in the package
-			files: ["lib", "config", "mix.exs", "README*", "readme*", "LICENSE*", "license*"],
+			files: ["lib", "config", "mix.exs", "README*", "LICENSE*"],
 			maintainers: ["Aravind Gopalakrishnan"],
 			licenses: ["MIT License"],
 			links: %{"GitHub" => "https://github.com/aravindgd/feature_toggler"}]
